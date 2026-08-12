@@ -1,0 +1,11 @@
+flask=it can be used for the web application.
+sqlalchemy=database handling.it can be used to connect the database
+pymsql=tidebebe connect.
+openai=ai intrigate kr ska
+PyPDF2=user is enter their resume and this can be used to read the the resume in python.
+docx=it can be used to used to read the doc file.
+
+#Step
+
+1=to setup.
+2=database connection
